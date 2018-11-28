@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ITU 2018</string>
+    <string name="title_activity_map">Map</string>
+    <string name="title_activity_trips">trips</string>
+    <string name="coloseum">coloseum</string>
+    <string name="testTitle">new_title</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_map_fragment">Map</string>
+</resources>

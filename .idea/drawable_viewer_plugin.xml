@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidDrawableViewer">
+    <option name="drawableMdpi" value="true" />
+    <option name="srcDir" value="$PROJECT_DIR$/app/src" />
+  </component>
+</project>
